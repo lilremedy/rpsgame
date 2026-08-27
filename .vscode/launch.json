@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Open index.html",
-            "file": "/home/vboxuser/repos/rpsgame/index.html"
+            "file": "/home/endrick/repos/rpsgame/index.html"
         }
     ]
 }
